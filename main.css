@@ -175,6 +175,9 @@ footer {
   .tabs {
     margin-bottom: 40px;
   }
+  .form-inline{
+    margin: auto;
+  }
   .tabs-box {
     margin-bottom: 20px;
     border-radius: 0px;
@@ -204,6 +207,11 @@ footer {
     width: 992px;
     margin: auto;
   }
+
+  .form-inline{
+    margin: auto;
+  }
+
   .ban-info {
     width: 600px;
 }
